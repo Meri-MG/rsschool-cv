@@ -6,6 +6,7 @@ body {
 header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 section {
   line-height: 25px;
