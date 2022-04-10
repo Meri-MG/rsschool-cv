@@ -28,3 +28,15 @@ I believe my hard work, love for clean code, and accessible and responsive desig
 - Tools & Methods : Git, GitHub, Heroku, Netlify, Mobile/Responsive Development, RSpec, TDD, Chrome Dev Tools
 - Professional : Remote Pair-Programming, Teamwork, Mentoring
 
+
+#### Project Examples
+
+- [Space-Travelers-Hub](https://ecstatic-mclean-c55821.netlify.app/) — This is a collaborative web application that allows users to book rockets, and dragons and
+joins selected space missions using the real live data from the SpaceX API.
+> Built with: React, Redux, Jest.
+
+- [WORLD-NEWS](https://meri-mg.github.io/Unilab-world-news/) — This is a fully responsive 3 page website following the Adobe XD design.
+> Built with: JavaScript, CSS, HTML, API.
+
+- [FakeStore](https://meri-mg.github.io/To-Do-List/dist/) — This is a web application that provides information on each product of the store.
+> Built with: React, Redux, fakeStore API.
