@@ -40,3 +40,35 @@ joins selected space missions using the real live data from the SpaceX API.
 
 - [FakeStore](https://meri-mg.github.io/To-Do-List/dist/) — This is a web application that provides information on each product of the store.
 > Built with: React, Redux, fakeStore API.
+
+#### Experience 
+
+###### MICROVERSE
+Remote
+Professional Projects’ Reviewer
+- Reviewing new students of Microverse professional skills projects.
+- Proposing improvements and changes to improve students’ profiles on all platforms.
+- Helping students by giving them some support and creative ideas
+
+###### Unilab
+Front-end Developer Intern
+- Worked on real-world projects in a collaborative environment and improved presentation skills.
+- Collaborated with the Project manager, designers, and front-end developers’ team.
+- Proposed improvements to code organization to improve code quality and overall performance.
+
+#### Education
+
+###### MICROVERSE
+
+Remote Full-stack Web Development Program, Full Time
+- Spent 700+ hours mastering algorithms, and full-stack development while simultaneously developing projects with Ruby, Rails, JavaScript, React, and Redux.
+- Developed skills in remote pair-programming using GitHub, industry-standard git-flow, and daily standups to communicate and collaborate with international remote developers.
+
+###### Free University of Tbilisi
+International Relations, Middle-East studies
+- Demonstrated great skills in acquiring new languages: Arabic, and French.
+- Took an active part in interdisciplinary interactions within the university and was awarded as one of the best presenters at the conference.
+
+##### English
+
+IELTS certified C1 level
