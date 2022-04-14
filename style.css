@@ -9,19 +9,19 @@ header nav {
   align-items: center;
 }
 
-nav ul {
+.nav_bar ul {
   width: 70%;
   display: flex;
   justify-content: space-around;
   align-items: center;
 }
 
-nav ul li {
+.nav_bar ul li {
   align-self: flex-start;
   list-style: none;
 }
 
-nav ul li a {
+.nav_bar ul li a {
   color: #000;
 }
 
@@ -38,7 +38,7 @@ main img {
   width: 50%;
 }
 
-main div {
+main .img_wrapper {
   display: flex;
   justify-content: space-between;
 }
