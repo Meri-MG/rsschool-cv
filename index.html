@@ -134,6 +134,29 @@
         </li>
       </ul>
       <hr />
+      <h3>Code Example</h3>
+      <h4>
+        The Solution of the HackerRank programming challenge called Beautiful
+        Days
+      </h4>
+      <div>
+        <pre>
+          <code>
+            function beautifulDays(i, j, k) {
+             let count = 0
+             for(let z = i; z <= j; z++){
+                 let str = z.toString()
+                 let reverse = str.split("").reverse().join("")
+                 if((z - parseInt(reverse)) % k === 0){
+                     count++;
+                 }
+             }
+             return count;
+            }
+          </code>
+        </pre>
+      </div>
+      <hr />
       <h3>Education</h3>
       <h4>MICROVERSE</h4>
       <p>Full-stack Web Development Program, Full Time</p>
