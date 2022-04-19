@@ -144,7 +144,7 @@
           <code>
             function beautifulDays(i, j, k) {
              let count = 0
-             for(let z = i; z <= j; z++){
+             for(let z = i; z &lt;= j; z++){
                  let str = z.toString()
                  let reverse = str.split("").reverse().join("")
                  if((z - parseInt(reverse)) % k === 0){
